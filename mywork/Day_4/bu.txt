@@ -1,0 +1,5 @@
+Name:Bhuvaneshwari
+Designation:Trainee Software Engineer
+Company Name:BuSoftTech
+Experience:1
+Skill set:Angular,Python,MYSQL
